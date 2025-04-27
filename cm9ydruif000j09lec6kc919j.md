@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745681607670/e36ee11
 
 ---
 
-Active Directory Domain Services works same as Active Directory in Micorsoft Azure. It is used for managing multiple users under one management hub. This task ensures that you are able to create new users in Active Directory and manage them. Also you are able to connect you machine to this directory.
+Active Directory Domain Services works same as Active Directory in Micorsoft Azure. It is used for managing multiple users under one management hub. This task ensures that you are able to create new users in Active Directory and manage them. Also you are able to connect your machine to this directory.
 
 ## Task
 
