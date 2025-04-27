@@ -11,7 +11,7 @@ Active Directory Domain Services works same as Active Directory in Micorsoft Azu
 
 ## Task
 
-**Create a Windows Server VM in azure and make it Domain Controller. Add 3 Organization Unit (Production, Engineer, Sales) and inside each OU create 1 User. Create a new Windows Enterprise Vm and connect this VM to the Domain Controller and sync the users.**
+**Create a Windows Server VM in azure and make it Domain Controller. Add 3 Organization Unit (Production, Engineer, Sales) and inside each OU create 1 User. Create a new Windows Vm and connect this VM to the Domain Controller and sync the users.**
 
 ## Steps
 
