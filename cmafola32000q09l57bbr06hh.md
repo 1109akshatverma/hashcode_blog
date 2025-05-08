@@ -3,7 +3,6 @@ title: "Task assigned by Bhavan"
 datePublished: Thu May 08 2025 18:08:49 GMT+0000 (Coordinated Universal Time)
 cuid: cmafola32000q09l57bbr06hh
 slug: task-assigned-by-bhavan
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746728058643/bc401ea5-60ef-473a-b5b6-3f037f71c66c.png
 
 ---
 
